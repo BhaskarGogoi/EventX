@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EventX</string>
+    <string name="rupee">\u20A8</string>
+    <string name="Rs">\u20B9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">
+        A minor project to be submitted to the Dibrugarh University for the partial
+        fulfilment of the Degree of Master of Computer Application
+    </string>
+    <string name="submitted_by"><b>Bhaskarjyoti Gogoi</b>
+        \nthebhaskargogoi@gmail.com
+    </string>
+    <string
+        name="portfolio_website"><a href="https://bhaskargogoi.github.io">bhaskargogoi.github.io</a></string>
+</resources>

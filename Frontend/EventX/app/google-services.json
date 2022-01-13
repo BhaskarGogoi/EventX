@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031127071438",
+    "project_id": "eventx-1d7d0",
+    "storage_bucket": "eventx-1d7d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031127071438:android:ac3dd28bdc0b58d246ae9f",
+        "android_client_info": {
+          "package_name": "com.bhaskargogoi.eventx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031127071438-vu2jo244b2sblsre2adbep5fvgda41ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSA6KsIJVjQikoFHSO44J52vaE7t6lFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031127071438-vu2jo244b2sblsre2adbep5fvgda41ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
