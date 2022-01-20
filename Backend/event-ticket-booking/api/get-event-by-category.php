@@ -1,6 +1,6 @@
 <?php
     header('Content-Type:application/json');
-    include('database_connection.php');
+    include('../includes/database_connection.php');
     $event_category = mysqli_real_escape_string($conn, $_POST['event_category']);
 
     $sql = "SELECT * FROM events WHERE event_type = ?;";
