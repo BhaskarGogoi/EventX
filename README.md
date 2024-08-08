@@ -32,3 +32,6 @@ An event ticket booking system is a solution to the tedious process of making bo
   Password: 12345
 ```
 
+## License
+[MIT License](LICENSE)
+
